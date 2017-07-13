@@ -6,8 +6,8 @@ require "squarezero_html_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "squarezero_html_tool"
   spec.version       = SquarezeroHtmlTool::VERSION
-  spec.authors       = ["TODO: Maria Mercedes Martinez"]
-  spec.email         = ["TODO: pistachiopony@gmail.com"]
+  spec.authors       = ["Maria Mercedes Martinez"]
+  spec.email         = ["pistachiopony@gmail.com"]
 
   spec.summary       = %q{HTML Tool for your Rails site.}
   spec.description   = %q{I use this to add my copyright to all pages. Use it however you see fit.}

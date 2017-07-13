@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SquarezeroHtmlTool::Renderer.copyright 'Maria Mercedes Martinez', 'All rights reserved'
+```
 
 ## Development
 
