@@ -1,4 +1,5 @@
 # SquarezeroHtmlTool
+[![Gem Version](https://badge.fury.io/rb/squarezero_html_tool.svg)](https://badge.fury.io/rb/squarezero_html_tool)
 
 > HTML Tool for your Rails site.
 
